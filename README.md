@@ -1,1 +1,1 @@
-https://ettrich.github.io/Quote-Gererator/
+https://ettrich.github.io/Zadanie-12.5/
